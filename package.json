@@ -1,0 +1,23 @@
+{
+  "name": "dev1",
+  "version": "1.0.0",
+  "description": "19/12/2020: System configured for Virtual Box and installed Ubuntu, going through the videos, Bash, scripting. <br/> 20/12/2020: How to use vim effectively, to modify and work with log files or any text within terminal, learnt the working of git and various commands used.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anooj-gandham/dev1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anooj-gandham/dev1/issues"
+  },
+  "homepage": "https://github.com/anooj-gandham/dev1#readme",
+  "dependencies": {
+    "mongoose": "^5.12.6",
+    "underscore": "^1.13.1"
+  }
+}
